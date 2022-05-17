@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://opensea.io/Cyber_Shark">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=CyberSharkGithub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSharkGithub&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=CyberSharkNFT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSharkNFT&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>  
